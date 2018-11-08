@@ -1,5 +1,7 @@
 # Figma - UX Design Tool (new tool)
 
+## Intro
+
 ## Setting up a Figma Project
 
 * **What is Figma?** - how it fits in design workflow
