@@ -10,8 +10,6 @@ It'll tell you how to best setup your browser for the best Figma experience.
 
 Go to Figma to sign up: https://www.figma.com
 
-<kbd>![alt text](img/figmafits.png "screenshot")</kbd>
-
 ## Creating a Project
 
 When beginning design project in Figma, you can start by either creating a project or a file.
