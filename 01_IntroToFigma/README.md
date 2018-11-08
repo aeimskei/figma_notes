@@ -29,5 +29,26 @@ With Figma, we do design, prototype, share, get feedback and commenting.
 
 ## What Set's Figma Apart?
 
-Figma is an Interface Design tool
+Figma is an Interface Design tool, UX/UI, web, app, etc.
 
+* **Components** (symbols in other design tools), are the interesting part about Figma, they help you work smarter and faster.
+
+* **Effects** in design like drop down shadows, etc.
+
+* **Frames** are similar to artboards in other design tools, but a little different in Figma. They're useful when you understand how they work.
+
+* **Versioning** you can look at versions within the tool, you can even rollback like how you would with Git version control.
+
+* **Vector Networks** is a different way to draw.
+
+In Figma, we also have the ability to share.
+
+* **Real-time collaboration** where multiple contributors can go into the same file and see each other working.
+
+* **Team Projects**
+
+* **Commenting** the ability to let contributors add comments in place as in you can comment directly to something on the frame.
+
+We can Prototype with Framer integration though. Prototyping is not within Figma, we would have to import Figma content into Framer.
+
+Some people have called Figma the Google Docs of UX Design bc they way it works.
